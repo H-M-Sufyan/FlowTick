@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842862736909",
+    "project_id": "flowtick-8310a",
+    "storage_bucket": "flowtick-8310a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842862736909:android:8d2707016b03ea7cfd0744",
+        "android_client_info": {
+          "package_name": "com.example.flowtick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zxDpBZ1LdiVd2E6Ym9FOrX_mlxpnYEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
