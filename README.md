@@ -1,16 +1,11 @@
-# flowtick
+# FlowTick
 
-A new Flutter project.
+FlowTick — A beautiful Flutter notes & tasks app powered by Firebase & Riverpod.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Animated list, card, and grid views
+- Year-grouped notes
+- Task reminders with local notifications
+- Soft delete
+- Image attachments
+- Modern UI with smooth animations
